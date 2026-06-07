@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+wandb/
+dataset/
+results/
+splits/
+old_splits/
+plots/
+checkpoints/temp/
+data/
+scripts/
+wandb_logs/
+baselines/
+degree_distribution_plot.py
+feature_propagation_dist.py
